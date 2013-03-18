@@ -1,0 +1,12 @@
+
+#include "Directory.h"
+#include "DTW.h"
+#include "FFT.h"
+#include "complex_simple.h"
+#include "hmm.h"
+#include "nan-inf.h"
+#include "Euclidean.h"
+#include "MFCC.h"
+#include "Training.h"
+#include "Wav.h"
+#include "types.h"
